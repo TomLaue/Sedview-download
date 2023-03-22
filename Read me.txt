@@ -1,0 +1,10 @@
+NOTES for installing Sedview2:
+  1- Download the Sedview xx-xx-xxx Installer.exe file
+	a) Double click on the .exe file
+	b) Select where you want the Sedview2 files put
+or
+  2- Download the Sedview xx-xx.xxx.zip file
+	a) Extract the files into whichever directory you want them
+
+  3- To start Sedview, just double click on Sedview.exe
+	a) Instructions on how to use the program are on each page	 
