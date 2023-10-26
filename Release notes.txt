@@ -2,5 +2,5 @@
 	1- Fixed g(s*) graph y-scaling in analysis when zoomed to between Top and Bottom markers
 	2- Moved maximum number of files that can be analyzed into Sedview.cfg where it can be modified if needed
 	3- Can handle large-array detectors
-	4- Close analysis now implemented. User can remove particular analyses from if desired.
+	4- Close analysis now implemented. User can remove a particular analyses from consideration.
 	5- Several small bug fixes
